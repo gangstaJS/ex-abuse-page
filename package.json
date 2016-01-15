@@ -1,0 +1,30 @@
+{
+  "name": "ex-abuse-page",
+  "version": "1.0.0",
+  "description": "ex-abuse-page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gangstaJS/ex-abuse-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gangstaJS/ex-abuse-page/issues"
+  },
+
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-concat": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "gulp-rename": "latest",
+    "gulp-jshint": "latest",
+    "gulp-ssh": "latest"
+  },
+
+  "homepage": "https://github.com/gangstaJS/ex-abuse-page#readme"
+}
